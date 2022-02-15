@@ -29,5 +29,6 @@ int main() {
 	double n,m;
 	cin >> n >> m;
 	cout << "max = " << foo2(n, 9);
+	cout << "the end!!!!";
 	return 0;
 }
